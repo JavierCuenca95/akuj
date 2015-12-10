@@ -22,5 +22,11 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+    	<groupId>Akuj</groupId>
+    	<artifactId>Practica3_maven</artifactId>
+    	<version>0.0.1-SNAPSHOT</version>
+    	<type>pom</type>
+    </dependency>
   </dependencies>
 </project>

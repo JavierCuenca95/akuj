@@ -1,0 +1,15 @@
+Fecha: 03/12/2015
+Hora inicio: 16:00
+Hora Fin: 19:00
+
+Trabajo realizado:
+   Tablas de planificación tanto de nuestros clientes como servidor.
+   Elección de las características de calidad  de iso 25010.
+   Relación y prioridad establecida a estas características de calidad.
+   Familiarización con la herramienta de evaluación http://origin.esi.uclm.es/evaluacion/
+   Realización de todo lo correspondiente a la herramienta anteriormente propuesta.
+   Revisión de todo lo realizado.
+
+      
+Objetivos: 
+      Cumplir con los plazos para la entrega posterior de las practicas siguientes.

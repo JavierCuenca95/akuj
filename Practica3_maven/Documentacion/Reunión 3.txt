@@ -1,0 +1,14 @@
+Hora inicio: 16:00 
+Hora fin: 18:15
+
+Fecha: 05/10/2015
+
+Trabajo realizado:
+       Finalizacion de los apartados que teniamos a medio hacer
+       Actualización de la pagina respecto al trabajo realizado 
+       El trabajo realizado esta sujeto a actualizaciones por motivos de errores o cambios de decisiones en el proyecto
+
+Objetivos:
+       Poner los salarios de los empleados 
+       Poner el software que usaremos
+       Horarios de trabajo 

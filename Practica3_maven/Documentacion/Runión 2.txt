@@ -1,0 +1,14 @@
+Hora inicio:11:00
+Hora fin:12:45
+
+Trabajo realizado:
+          Continuación de la realización de los ejercicios del Tema 0
+          Búsqueda de información de muebles
+          Búsqueda de información del hardware a usar
+          Búsqueda de información de software que usaremos
+          Planteamiento de dudas sobre el software que deberíamos usar
+          Dicusión sobre algunos elementos o temas de la empresa
+Objetivos:
+          Terminación de los ejercicios del Tema 0
+          Resolver las dudas
+          Continuar con la búsqueda de información sobre la infraestructura de la empresa

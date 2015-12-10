@@ -1,0 +1,5 @@
+Terminación de la edición de la web
+Subida de contenido a la web completa
+Terminación de proyecto en maven
+Subida del proyecto de maven a git
+Subida de archivos adicionales a git
